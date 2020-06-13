@@ -1,6 +1,7 @@
 ---
 title: "Belajar Python : Variables Python"
 date: 2020-06-10T10:48:47+07:00
+draft: false
 categories:
 - Python
 tags:
