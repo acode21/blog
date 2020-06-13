@@ -1,5 +1,5 @@
 theme = "harbor"
-baseurl = "https://androcode.netlify.app"
+baseurl = "https://irhams.netlify.app"
 title = "AndroCode"
 paginate = 6
 languageCode = "en"
